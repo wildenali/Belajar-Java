@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         // MemBUAT array 2 Dimensi
-        System.out.println("Array Multidimensi ========================");
+        System.out.println("Array Multidimensi =========================");
         int[][] array2D = {
                 {1,2},
                 {3,4}
