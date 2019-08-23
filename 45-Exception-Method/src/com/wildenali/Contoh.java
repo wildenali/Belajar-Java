@@ -10,6 +10,8 @@ public class Contoh {
         FileInputStream inputFile = new FileInputStream("input.txt");
 
         System.out.println((char)inputFile.read());
+
+        System.out.println("Akhir dari program");
     }
 
 }
