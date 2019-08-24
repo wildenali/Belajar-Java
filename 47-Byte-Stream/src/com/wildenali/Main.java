@@ -81,7 +81,6 @@ public class Main {
 
 
         // Contoh yg Terakhir (try with resources)
-
         try (
                 FileInputStream in = new FileInputStream("input.txt");
                 FileOutputStream out = new FileOutputStream("output2.txt");
