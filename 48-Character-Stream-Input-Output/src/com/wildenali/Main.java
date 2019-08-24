@@ -10,7 +10,7 @@ public class Main {
 
         // ============= Buka File =============
         // byte stream -> FileInputStream
-        // Character stream -> FileReader
+        // character stream -> FileReader
         FileInputStream byteFileInput = new FileInputStream("input.txt");
         FileReader      charFileInput = new FileReader("input.txt");
 
