@@ -1,0 +1,1 @@
+なると karakter stream berbeda dengan byte stream
